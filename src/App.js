@@ -1,5 +1,5 @@
-import logo from "./logo.svg";
 import "./App.scss";
+// eslint-disable-next-line no-unused-vars
 import firebase from "./FirebaseConfig";
 
 function App() {
